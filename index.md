@@ -7,7 +7,7 @@ layout: default
 By Blair Russell and Sean Larson
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="data_analysis/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 In the University of North Carolina COMP 110 course, a variety of student backgrounds are seen, both in coding and in cumulative life experiences. In "Data Analysis for Continuous Improvement - Collaborative Effort and Beginner Support Materials", we will provide a glimpse into the COMP 110 student variety and propose valuable improvements for the continued enrichment of a deeply foundational UNC course. Data is drawn from a survey conducted of Spring 2026 semester COMP 110 students. 
 
@@ -40,9 +40,31 @@ Of the five ideas, **increased beginner support materials** was deemed to be the
 
 Increasing beginner support materials is a more valuable strategy than other ideas because it impacts the greatest proportion of students, thus having the greatest effect on overall learning. Additionally, it helps students that typically would feel the most overwhelmed in a introduction to computer science course, meaning that much could be gained for relatively little effort. Because the provided dataset included information regarding experience, difficulty, and understanding of course concepts, analyzing beginner data allows for more easily justifiable results than other methods.
 
-
 ## Analysis: Prior Experience vs Learning Outcomes
 
-It is expected that students with less experiencing will experience a higher level of perceived difficulty with COMP 110. While this is a fairly simple hypothesis, it exemplifies that those students would benefit from additional resources. Will this work?
+It is expected that students with less experiencing will experience a higher level of perceived difficulty with COMP 110. While this is a fairly simple hypothesis, it exemplifies that those students would benefit from additional resources. 
 
-<img src="/static/imgs/Exp_vs_outcomes.png" alt="Plot of COMP 110 student prior experience vs perceived difficulty. "  width="500"/>
+<img src="data_analysis/static/imgs/Exp_vs_outcomes.png" alt="Plot of COMP 110 student prior experience vs perceived difficulty. "  width="500"/>
+
+Data shows that, as expected, difficulty decreased with prior experience coding. Despite this, difficulty in coding may be caused by many factors like user interface or software usage that does not necessarily relate to the concepts of the course. To determine whether previous exposure to coding actually influences concpetual understanding, separate analysis must occur. 
+
+## Analysis: Prior Experience vs Understanding
+
+Analyzing prior experience versus understanding is crucial because it removes confounding skills associated with experience in computer science that do not directly translate to conceptual understanding. While a slightly higher level of understanding is expected in those with much larger amounts of experience, beginner understanding of fundamental concepts should be nearly as high if there are the correct materials and support system in place for beginners.
+
+<img src="data_analysis/static/imgs/Understanding_vs_exp.png" alt="Plot of COMP 110 student prior experience vs perceived understanding. "  width="500"/>
+
+The data shows that students with prior experience generally report a noticeably higher understanding that those with little to no experience. This indicates that having prior experience with programming helps students grasp course content more effectively, but also potentially leaves room open for improving access to beginner resources.
+
+## Analysis: Distribution of Prior Experience
+
+As stated above, targeting beginners as a source for COMP 110 improvement is valuable specifically because it targets the greates portion of students. It should be expected that, for this population to be targeted, it should represent a very large proportion of the class, allowing for the most people as possible to benefit.
+
+<img src="data_analysis/static/imgs/Exp_count.png" alt="Plot of COMP 110 student prior experience vs perceived understanding. "  width="500"/>
+
+This experience distribution plot indeed shows that most students do have less than one month of experience coding, representing more students than the rest of the groups combined. While this shows that improving material access for beginners is key to draw the maximum value from course changes, it should be stated that having more beginner-oriented resources would not necessarily harm those with extensive experience coding, as they could always be used for additional exam practice or foundational practice.
+
+
+## Conclusion
+
+The analysis suggests that prior programming experience significantly impacts both difficulty and understanding in the course. Students without prior experience tend to struggle more and report lower understanding. Based on these findings, the course should provide additional beginner support materials to help students without prior experience succeed. One limitation of this analysis is that the data is self-reported and may not fully reflect actual performance. Future analysis could include objective measures such as grades or assignment performance. While implementing additional beginner resources may require more instructor time and effort, it can be argued that the potential benefits for student success outweigh these costs.
