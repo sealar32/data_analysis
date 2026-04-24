@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ex09 Data Analysis
+title: EX09 - Data Analysis for Continuous Improvement
 email: sealar@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A page created by Sean Larson and Blair Russel for EX09 - Data Analysis for Continuous Improvement.
 baseurl: "/data_analysis" # the subpath of your site, e.g. /blog
 url: "sealar32.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
@@ -31,7 +29,7 @@ github_username:  sealar32
 
 # Build settings
 # Build settings
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: "jekyll/minima@1e8a445"
 
 
 plugins:
