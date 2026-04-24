@@ -44,7 +44,7 @@ Increasing beginner support materials is a more valuable strategy than other ide
 
 It is expected that students with less experiencing will experience a higher level of perceived difficulty with COMP 110. While this is a fairly simple hypothesis, it exemplifies that those students would benefit from additional resources. 
 
-<img src="data_analysis/static/imgs/Exp_vs_outcomes.png" alt="Plot of COMP 110 student prior experience vs perceived difficulty. "  width="500"/>
+<img src="static/imgs/Exp_vs_outcomes.png" alt="Plot of COMP 110 student prior experience vs perceived difficulty. "  width="500"/>
 
 Data shows that, as expected, difficulty decreased with prior experience coding. Despite this, difficulty in coding may be caused by many factors like user interface or software usage that does not necessarily relate to the concepts of the course. To determine whether previous exposure to coding actually influences concpetual understanding, separate analysis must occur. 
 
