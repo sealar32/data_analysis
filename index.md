@@ -43,3 +43,6 @@ Increasing beginner support materials is a more valuable strategy than other ide
 
 ## Analysis: Prior Experience vs Learning Outcomes
 
+It is expected that students with less experiencing will experience a higher level of perceived difficulty with COMP 110. While this is a fairly simple hypothesis, it exemplifies that those students would benefit from additional resources. 
+
+<img src="data_analysis/static/imgs/.Exp_count.png" alt="Plot of COMP 110 student prior experience vs perceived difficulty. "  width="500"/>
