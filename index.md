@@ -7,7 +7,7 @@ layout: default
 By Blair Russell and Sean Larson
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="data_analysis/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 In the University of North Carolina COMP 110 course, a variety of student backgrounds are seen, both in coding and in cumulative life experiences. In "Data Analysis for Continuous Improvement - Collaborative Effort and Beginner Support Materials", we will provide a glimpse into the COMP 110 student variety and propose valuable improvements for the continued enrichment of a deeply foundational UNC course. Data is drawn from a survey conducted of Spring 2026 semester COMP 110 students. 
 
@@ -45,4 +45,4 @@ Increasing beginner support materials is a more valuable strategy than other ide
 
 It is expected that students with less experiencing will experience a higher level of perceived difficulty with COMP 110. While this is a fairly simple hypothesis, it exemplifies that those students would benefit from additional resources. 
 
-<img src="data_analysis/static/imgs/.Exp_count.png" alt="Plot of COMP 110 student prior experience vs perceived difficulty. "  width="500"/>
+<img src="/static/imgs/Exp_vs_outcomes.png" alt="Plot of COMP 110 student prior experience vs perceived difficulty. "  width="500"/>
