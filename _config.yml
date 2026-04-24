@@ -21,7 +21,7 @@
 title: EX09 - Data Analysis for Continuous Improvement
 email: sealar@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A page created by Sean Larson and Blair Russel for EX09 - Data Analysis for Continuous Improvement.
+  A page created by Sean Larson and Blair Russel for EX09 - Data Analysis for Continuous Improvement. Created 4/25/2026.
 baseurl: "/data_analysis" # the subpath of your site, e.g. /blog
 url: "sealar32.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
