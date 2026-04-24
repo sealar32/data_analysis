@@ -31,7 +31,6 @@ github_username:  sealar32
 
 # Build settings
 # Build settings
-remote_theme: ""
 theme: jekyll-theme-slate
 
 plugins:
