@@ -25,6 +25,7 @@ Analysis beings with ideation. Ideation draws on the experiences of a student at
 
 Of these five ideas, **opportunities for collaborative effort** had inefficient data from the survey for data to be analyzed.
 
+
 ## Missing Data - Opportunities for collaborative effort
 
 While working with other students may be beneficial for some, for others it may introduct unwanted stress or may simply be unnecessary for facilitating learning. The survey is lacking in that students are not explicitly asked at any point whether they desired to work with other students on COMP 110 projects. 
@@ -34,9 +35,11 @@ A proposed method for adressing this missing data is to include survey questions
 
 Of the five ideas, **increased beginner support materials** was deemed to be the most valuable to analyze in the context of the available data.
 
+
 ## Available Data Analysis - Increased beginner support materials
 
 Increasing beginner support materials is a more valuable strategy than other ideas because it impacts the greatest proportion of students, thus having the greatest effect on overall learning. Additionally, it helps students that typically would feel the most overwhelmed in a introduction to computer science course, meaning that much could be gained for relatively little effort. Because the provided dataset included information regarding experience, difficulty, and understanding of course concepts, analyzing beginner data allows for more easily justifiable results than other methods.
+
 
 ## Analysis: Prior Experience vs Learning Outcomes
 
